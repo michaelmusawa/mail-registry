@@ -3,7 +3,7 @@
 
 import { useActionState } from "react";
 import { useState } from "react";
-import { authenticate } from "@/app/lib/loginActions";
+import { authenticate } from "@/app/lib/actions";
 import ArrowRightIcon from "@/components/icons/arrowRight";
 import { poppins } from "@/public/fonts/fonts";
 import AtIcon from "@/components/icons/AtIcon";
